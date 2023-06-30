@@ -1,5 +1,5 @@
-# Project
-*** OVERVIEW ***
+ # Project
+** OVERVIEW **
 Now that you have been equipped with the knowledge and skills to develop and deploy `a full-stack Django app`, you will have the opportunity in the final project to practice and apply your skills by adding new features to a Django online course app.
 
 FINAL PROJECT SCENARIO 
@@ -9,7 +9,7 @@ Based on the user feedback, the stakeholders of the product have planned to add 
 
 As a new team member, the lead developer has assigned this new feature to you. You will need to leverage your Django full-stack skills to design and implement models, templates, and views. 
 
-*** OVERVIEW OF PROJECT TASKS ***
+** OVERVIEW OF PROJECT TASKS **
 You will complete the final project by performing the following tasks:
 
 - Understand project requirements and download/gitclone the MVP app
