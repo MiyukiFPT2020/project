@@ -1,4 +1,4 @@
-# project
+# Project
 OVERVIEW 
 Now that you have been equipped with the knowledge and skills to develop and deploy a full-stack Django app, you will have the opportunity in the final project to practice and apply your skills by adding new features to a Django online course app.
 
